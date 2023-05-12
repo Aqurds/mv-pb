@@ -15,22 +15,22 @@ header {
 }
 
 .contact-bg-image {
-  min-height: 200px; 
+  min-height: 200px;
   margin-top: -100px;
 }
 
 .contact-bg-part-one {
-  width:100px; 
-  height:auto;
+  width: 100px;
+  height: auto;
 }
 
 .contact-bg-part-two {
-  width:50px; 
-  height:auto;
+  width: 50px;
+  height: auto;
 }
 
 .contact-bg-part-three {
-  height:200px; 
+  height: 200px;
   width: auto;
 }
 
@@ -42,6 +42,6 @@ header {
 
 @media (max-width: 768px) {
   .menu-desktop {
-      display: none;
+    display: none;
   }
 }
